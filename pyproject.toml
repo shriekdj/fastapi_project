@@ -6,8 +6,7 @@ authors = ["ShriekDj <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-fastapi = "^0.75.0"
-uvicorn = {extras = ["standard"], version = "^0.17.6"}
+pipenv = "^2022.1.8"
 
 [tool.poetry.dev-dependencies]
 
