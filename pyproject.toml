@@ -6,7 +6,11 @@ authors = ["ShriekDj <<>>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+fastapi = "^0.75.0"
+uvicorn = "^0.17.6"
 pipenv = "^2022.1.8"
+pydantic = "^1.9.0"
+ujson = "^5.1.0"
 
 [tool.poetry.dev-dependencies]
 
